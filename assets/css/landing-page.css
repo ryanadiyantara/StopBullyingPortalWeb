@@ -1537,6 +1537,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
     #video_background{
         display: none;
     }
+    .tablet-display-none{
+      display: none;
+    }
 
 }
 
